@@ -60,7 +60,14 @@ Meetings can be conducted virtually.
 - Clips
 - Tasks
 - Surveys
+
+![dictionary infographic](https://github.com/user-attachments/assets/b4d14d4a-7155-4538-a418-82d1dbe4ed5e)
+
 - Docs
+
+  
+
+
 
 
 
