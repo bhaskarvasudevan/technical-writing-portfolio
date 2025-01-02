@@ -27,8 +27,9 @@ audio
 using collaboration software from their mobile phone or laptop. 
 Such a video meeting is called video conferencing.
 
-Chat
-Members of a meeting can engage in a
+> Chat
+>
+> Members of a meeting can engage in a
 Group chat involving everyone in the meeting 
 Private chat with another member
 This is similar to text messaging in WhatsApp groups on your mobile phone.
@@ -37,8 +38,9 @@ Whiteboard
 A whiteboard is the online version of a classroom board. The host or presenter of a meeting can write and draw on a whiteboard using an online pen and other drawing tools. Members of a meeting can view the whiteboard. 
 Meetings can be conducted virtually.
 
-3.0 Features
-Zoom Workplace provides features in the below two categories. The features are detailed in sections that follow. 
+> 3.0 Features
+>
+>> Zoom Workplace provides features in the below two categories. The features are detailed in sections that follow. 
 
 Communications
 Meetings
