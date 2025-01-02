@@ -79,8 +79,9 @@ meetings on Zoom Workplace.
 Follow the steps below to start a meeting instantly.
 Click New Meeting.
 
-A new meeting window appears instantly. You can see yourself in the video meeting as shown in the screenshot below.
+A new meeting window appears instantly. You can see `yourself` in the video meeting as shown in the screenshot below.
 
+[Click here](https://support.apple.com/en-us/docs)
 
 
 
