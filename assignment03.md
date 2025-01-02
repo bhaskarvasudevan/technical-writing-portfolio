@@ -32,8 +32,8 @@ Such a video meeting is called video conferencing.
 > Members of a meeting can engage in a
 Group chat involving everyone in the meeting 
 Private chat with another member
-This is similar to text messaging in WhatsApp groups on your mobile phone.
-
+This is similar to text messaging in WhatsApp groups on your mobile phone.[^1]
+[^1]:This is my footnote.
 ```
 Whiteboard
 A whiteboard is the online version of a classroom board. The host or presenter of a meeting can write and draw on a whiteboard using an online pen and other drawing tools. Members of a meeting can view the whiteboard. 
