@@ -15,12 +15,12 @@ This section lists key concepts that you need to understand to work with Zoom Wo
 
 Online meetings 
 -------------------------------------------------------------------------------------------------------------------
-Meetings need not be in person any longer. Members of a team or a group need not be physically present together in the same meeting room any longer to conduct a meeting. Meetings can be conducted __virtually__, on the internet. Members of a meeting can attend  meetings from their home, cafe, or office using their mobile phone or laptop using collaboration software (e.g., Zoom Workplace, Teams). Such meetings are **online meetings**.
+Meetings need not be in person any longer. _Members_ of a team or a group need not be physically present together in the same meeting room any longer to conduct a meeting. Meetings can be conducted __virtually__, on the internet. Members of a meeting can attend  meetings from their home, cafe, or office using their mobile phone or laptop using *collaboration* software (e.g., Zoom Workplace, Teams). Such meetings are **online meetings**.
 
-Video conferencing
-Members of a meeting can 
-see and 
-speak to
+***Video conferencing***
+___Members of a meeting can___
+__*see and*__
+**_speak to_**
 each other in an online meeting by turning on/off 
 video and 
 audio 
