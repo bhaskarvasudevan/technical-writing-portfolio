@@ -7,10 +7,10 @@
 
 
 
-1.0 About Zoom Workplace
+### 1.0 About Zoom Workplace
 Zoom Workplace is a collaboration and communication software product by Zoom Inc. 
 
-2.0 Concepts 
+### 2.0 Concepts 
 This section lists key concepts that you need to understand to work with Zoom Workplace.
 
 Online meetings 
