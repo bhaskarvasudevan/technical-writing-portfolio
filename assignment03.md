@@ -5,7 +5,12 @@
 ##### Zoom Workplace User Guide
 ###### Zoom Workplace User Guide
 
+- [ ] List1
+- [x] List2
+- [x] List3
 
+
+Smiley 😂 
 
 ### 1.0 About Zoom Workplace
 Zoom Workplace is a collaboration and communication software product by Zoom Inc. 
