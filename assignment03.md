@@ -42,19 +42,25 @@ Meetings can be conducted virtually.
 >
 >> Zoom Workplace provides features in the below two categories. The features are detailed in sections that follow. 
 
-Communications
-Meetings
-Team chat
-Phone
-Mail and calendar
-Scheduler
+1. Communications
+1. Meetings
+1. Team chat
+1. Phone
+   1. Nested option
+   2. Nested option 2
+   3. Nested option 3
+1. Mail and calendar
+1. Scheduler
 
-Productivity
-Whiteboard
-Clips
-Tasks
-Surveys
-Docs
+- Productivity
+  - sub bullet 1
+  - sub bullet 2
+  - sub bullet 3 
+- Whiteboard
+- Clips
+- Tasks
+- Surveys
+- Docs
 
 
 
