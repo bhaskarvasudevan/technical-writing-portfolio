@@ -9,10 +9,12 @@
 
 1.0 About Zoom Workplace
 Zoom Workplace is a collaboration and communication software product by Zoom Inc. 
+
 2.0 Concepts 
 This section lists key concepts that you need to understand to work with Zoom Workplace.
 
 Online meetings 
+-------------------------------------------------------------------------------------------------------------------
 Meetings need not be in person any longer. Members of a team or a group need not be physically present together in the same meeting room any longer to conduct a meeting. Meetings can be conducted virtually, on the internet. Members of a meeting can attend  meetings from their home, cafe, or office using their mobile phone or laptop using collaboration software (e.g., Zoom Workplace, Teams). Such meetings are online meetings.
 
 Video conferencing
