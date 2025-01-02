@@ -34,9 +34,12 @@ Group chat involving everyone in the meeting
 Private chat with another member
 This is similar to text messaging in WhatsApp groups on your mobile phone.
 
+```
 Whiteboard
 A whiteboard is the online version of a classroom board. The host or presenter of a meeting can write and draw on a whiteboard using an online pen and other drawing tools. Members of a meeting can view the whiteboard. 
 Meetings can be conducted virtually.
+```
+
 
 > 3.0 Features
 >
@@ -64,6 +67,13 @@ Meetings can be conducted virtually.
 ![dictionary infographic](https://github.com/user-attachments/assets/b4d14d4a-7155-4538-a418-82d1dbe4ed5e)
 
 - Docs
+
+
+| Field | Description | Data type | 
+| ----- | ----------- | --------- | 
+| Field | Description | Data type | 
+| Field | Description | Data type | 
+| Field | Description | Data type | 
 
   
 
