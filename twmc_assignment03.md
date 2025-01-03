@@ -106,8 +106,6 @@ Follow the steps below to start a meeting with your personal meeting ID:
    
 ![Start_A_Meeting_with_PMI](https://github.com/user-attachments/assets/7169e3c3-ba36-4801-be1d-78f30f84427c)
 
-![New_Meeting_Dropdown_Options](https://github.com/user-attachments/assets/7a3e9530-8216-460e-bb1a-5dfa10011464)
-
 
 ### 4.4 Sharing meeting link
 
