@@ -83,6 +83,7 @@ Follow the steps below to start a meeting instantly:
 1. A new meeting window appears instantly as shown in the screenshot below.
 1. Select **Join with computer audio**.
 1. A new meeting starts with video.
+   
 ![Start _A_Meeting_Screenshot](https://github.com/user-attachments/assets/3a024e29-ffcc-4642-b3c8-8e3188064227)
 
 
@@ -92,6 +93,7 @@ Follow the steps below to start a meeting without video:
 1. Unselect **Start with video** to start a meeting without video.
 1. Click **New meeting**.
 1. A new meeting starts without video.
+   
 ![Start_A_Meeting_without_video](https://github.com/user-attachments/assets/185dbed7-2cdf-408e-8bfa-580dbe9e0cef)
 
 
@@ -101,12 +103,13 @@ Follow the steps below to start a meeting with your personal meeting ID:
 1. Select **Use my personal meeting ID (PMI)**.
 1. Click **New meeting**.
 1. A new meeting starts with your personal meeting ID.
+   
 ![Start_A_Meeting_with_PMI](https://github.com/user-attachments/assets/7169e3c3-ba36-4801-be1d-78f30f84427c)
 
 ![New_Meeting_Dropdown_Options](https://github.com/user-attachments/assets/7a3e9530-8216-460e-bb1a-5dfa10011464)
 
 
-### 4.4 Sharing meeting link ![Uploading New_Meeting_Dropdown_Options.png…]()
+### 4.4 Sharing meeting link
 
 Follow the below steps to share a meeting link with attendees:
 1. Start a new meeting.
@@ -127,7 +130,9 @@ Follow the steps below to join a meeting:
 1. Select **Turn off my video** if you do not want to appear on video when you join the meeting. 
 1. Click **Join**. 
 1. Select **Join with computer audio**.
+   
 ![Join_with_computer_audio](https://github.com/user-attachments/assets/55981900-677b-4efd-8cf1-8d7672024e2c)
+
 1. You will be in the meeting. 
 1. Click **Unmute** if you desire.
 
@@ -154,6 +159,7 @@ Follow the below steps to schedule a meeting:
 
 ### 4.6 Actions in a meeting
 Once you are in a meeting, you can perform various actions. The below screenshot shows the options available. 
+
 ![Meeting_actions_screenshot](https://github.com/user-attachments/assets/eb95e01b-0707-4f96-a73d-42725a1bd14a)
 
 These options are available for both 
