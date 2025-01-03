@@ -25,7 +25,7 @@ This section lists key concepts that you need to understand to work with Zoom Wo
 
 
 ### 2.1 Online meetings 
-Meetings are not in person any longer. Members of a team or a group need not be physically present together in the same meeting room any longer to conduct a meeting. Meetings can be conducted virtually, on the internet. Members of a meeting can attend meetings from their:
+Members of a team or a group need not be physically present together in the same meeting room any longer. Now, meetings can be conducted virtually, on the internet. Members of a meeting can attend meetings from their:
 1. home
 2. a cafe or
 3. office
@@ -60,10 +60,6 @@ Zoom Workplace provides features in the below two categories. The features are d
 6. Scheduler
 7. Productivity
 8. Whiteboard
-9. Clips
-10. Tasks
-11. Surveys
-12. Docs
 
 
 ## 4.0 Meetings
