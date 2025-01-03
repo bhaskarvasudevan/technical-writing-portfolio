@@ -81,10 +81,16 @@ meetings on Zoom Workplace.
 Follow the steps below to start a meeting instantly:
 1. Click **New Meeting**.
 1. A new meeting window appears instantly as shown in the screenshot below.
+
+![Start _A_Meeting_Screenshot](https://github.com/user-attachments/assets/3a024e29-ffcc-4642-b3c8-8e3188064227)
+
 1. Select **Join with computer audio**.
 1. A new meeting starts with video.
    
-![Start _A_Meeting_Screenshot](https://github.com/user-attachments/assets/3a024e29-ffcc-4642-b3c8-8e3188064227)
+![Meeting_has_started](https://github.com/user-attachments/assets/f942e5ea-f2a3-4f7a-ae97-1e8de03c924d)
+
+
+
 
 
 ### 4.2 Start a meeting without video
@@ -112,6 +118,9 @@ Follow the steps below to start a meeting with your personal meeting ID:
 Follow the below steps to share a meeting link with attendees:
 1. Start a new meeting.
 1. Copy the **invite link** as seen in the screenshot below.
+
+![Copy_invite_link](https://github.com/user-attachments/assets/7f73101b-ae95-4de5-9e08-fb34915a8946)
+
 1. Share the link with attendees.
 
 
@@ -138,6 +147,9 @@ Follow the steps below to join a meeting:
 ### 4.6 Schedule a meeting
 Follow the below steps to schedule a meeting:
 1. Click **Schedule**. The below screen appears.
+
+![Schedule_A_Meeting_1](https://github.com/user-attachments/assets/3e53e399-0739-45fb-8f7e-c5f8bb37cbd5)
+
 1. Edit the *_meeting name_* if you desire.
 1. Select the *_meeting start date_* and *_start time_*.
 1. Select the *_meeting end date_* and *_end time_*. 
@@ -151,6 +163,9 @@ Follow the below steps to schedule a meeting:
       Your personal meeting ID will be used as the meeting ID.
 1. Add any attachments you want to send along with the meeting invite to meeting attendees.
 1. Change **Passcode for Meeting Security** if you desire. By default, a random passcode is provided as seen in the screenshot.
+
+![Schedule_A_Meeting_2](https://github.com/user-attachments/assets/c6eb0474-df11-441c-b80f-dd8cd5d07b0a)
+
 1. Select **Waiting Room** if you want attendees to wait in a virtual lobby before they are admitted to the meeting.
 1. Select **Only authenticated users can join; Sign in to Zoom** if you want attendees to have signed into Zoom before joining the meeting.
 
