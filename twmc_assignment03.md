@@ -83,7 +83,7 @@ Follow the steps below to start a meeting instantly:
 1. A new meeting window appears instantly as shown in the screenshot below.
 1. Select **Join with computer audio**.
 1. A new meeting starts with video.
-
+![Start _A_Meeting_Screenshot](https://github.com/user-attachments/assets/3a024e29-ffcc-4642-b3c8-8e3188064227)
 
 
 ### 4.2 Start a meeting without video
@@ -92,32 +92,45 @@ Follow the steps below to start a meeting without video:
 1. Unselect **Start with video** to start a meeting without video.
 1. Click **New meeting**.
 1. A new meeting starts without video.
+![Start_A_Meeting_without_video](https://github.com/user-attachments/assets/185dbed7-2cdf-408e-8bfa-580dbe9e0cef)
+
 
 ### 4.3 Start a meeting with a personal meeting ID
 Follow the steps below to start a meeting with your personal meeting ID:
 1. Click the little arrow next to **New meeting**.
 1. Select **Use my personal meeting ID (PMI)**.
 1. Click **New meeting**.
-1. A new meeting starts with your personal meeting ID. 
+1. A new meeting starts with your personal meeting ID.
+![Start_A_Meeting_with_PMI](https://github.com/user-attachments/assets/7169e3c3-ba36-4801-be1d-78f30f84427c)
 
-### 4.4 Sharing meeting link 
+![New_Meeting_Dropdown_Options](https://github.com/user-attachments/assets/7a3e9530-8216-460e-bb1a-5dfa10011464)
+
+
+### 4.4 Sharing meeting link ![Uploading New_Meeting_Dropdown_Options.png…]()
+
 Follow the below steps to share a meeting link with attendees:
 1. Start a new meeting.
 1. Copy the **invite link** as seen in the screenshot below.
-1. Share the link with attendees. 
+1. Share the link with attendees.
+
 
 ### 4.5 Join a meeting
 Follow the steps below to join a meeting:
 1. Click **Join**. The below screen appears.
+
+![Join_A_Meeting](https://github.com/user-attachments/assets/db00ff4a-44c0-4f9c-a6d8-ee934c6e98ec)
+
 1. Enter the Meeting ID or select the meeting you want to join from the drop-down menu. 
 1. Edit name shown if you desire.
    *_When you join the meeting, you will appear with this name_*. 
 1. Select **Don’t connect to audio** if you want audio to be turned off when you join the meeting.
 1. Select **Turn off my video** if you do not want to appear on video when you join the meeting. 
 1. Click **Join**. 
-1. Select **Join with computer audio**. 
+1. Select **Join with computer audio**.
+![Join_with_computer_audio](https://github.com/user-attachments/assets/55981900-677b-4efd-8cf1-8d7672024e2c)
 1. You will be in the meeting. 
 1. Click **Unmute** if you desire.
+
 
 ### 4.6 Schedule a meeting
 Follow the below steps to schedule a meeting:
@@ -141,6 +154,8 @@ Follow the below steps to schedule a meeting:
 
 ### 4.6 Actions in a meeting
 Once you are in a meeting, you can perform various actions. The below screenshot shows the options available. 
+![Meeting_actions_screenshot](https://github.com/user-attachments/assets/eb95e01b-0707-4f96-a73d-42725a1bd14a)
+
 These options are available for both 
 1. the presenter and 
 1. the participants 
@@ -148,9 +163,9 @@ of the meeting.
 
 However, some actions are available only to the presenter. e.g., the ability to
 1. mute all participants in a meeting.
-1. end a meeting. 
+1. end a meeting.
 
-
+#### Actions 
 1. **Audio**: Click on Audio to turn audio on/off. If you turn off audio, you will be muted. You can still hear the others speak.
 1. **Video**: Click on Video to turn video on/off. If you turn off video, you will not be seen in the meeting via video camera. You can still view others (if they have turned their video on) and hear others speak.
 1. **Participants**: Click on Participants to view the participants in the meeting.
@@ -159,6 +174,7 @@ However, some actions are available only to the presenter. e.g., the ability to
 1. **Share**: Share your desktop or a window on your desktop with the meeting attendees. 
 1. **More**: More meeting actions you can perform.
 1. **End**: End the meeting.
+   
 
 ### 4.7 Share screen 
 You can share your laptop or desktop screen with others using this option. 
@@ -168,7 +184,6 @@ Follow the below steps to start sharing your screen:
 1. Enter the **sharing key** or the **meeting ID** provided to you.
 1. Click **Share screen**.
 
+![Share_screen](https://github.com/user-attachments/assets/d82b4ad4-06be-4db1-9968-be1dc200bac1)
 
-
-
-
+![Share_screen_screenshot_2](https://github.com/user-attachments/assets/77b7ee37-4491-4db8-b293-fa6a6e2d760e)
