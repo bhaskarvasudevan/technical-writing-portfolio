@@ -41,7 +41,7 @@ Members of a meeting can engage in a Group chat involving:
 1. everyone in the meeting.
 1. private chat with another member.
    
-This is similar to text messaging in WhatsApp groups on your mobile phone.
+This is similar to _text messaging_ in WhatsApp groups on your mobile phone.
 
 ### 2.4 Whiteboard
 A whiteboard is the online version of a classroom board. The host or presenter of a meeting can write and draw on a whiteboard using an online pen and other drawing tools. Members of a meeting can view the whiteboard. 
