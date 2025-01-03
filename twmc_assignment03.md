@@ -30,12 +30,10 @@ Members of a team or a group need not be physically present together in the same
 2. a cafe or
 3. office
 using their mobile phone or laptop using collaboration software (e.g., Zoom Workplace, Teams).
-
 Such meetings are termed **online meetings**.
 
 ### 2.2 Video conferencing
 Members of a meeting can see and speak to each other in an online meeting by turning on/off video and audio using collaboration software from their mobile phone or laptop. 
-
 Such a video meeting is called **video conferencing**.
 
 ### 2.3 Chat
@@ -84,8 +82,6 @@ Follow the steps below to start a meeting instantly:
 1. A new meeting starts with video.
    
 ![Meeting_has_started](https://github.com/user-attachments/assets/f942e5ea-f2a3-4f7a-ae97-1e8de03c924d)
-
-
 
 
 
