@@ -195,11 +195,11 @@ Follow the below steps to start sharing your screen:
 
 ![Share_screen](https://github.com/user-attachments/assets/d82b4ad4-06be-4db1-9968-be1dc200bac1)
    
-1. Enter the **sharing key** or the **meeting ID** provided to you.
+2. Enter the **sharing key** or the **meeting ID** provided to you.
 
 ![Share_screen_screenshot_2](https://github.com/user-attachments/assets/77b7ee37-4491-4db8-b293-fa6a6e2d760e)
 
-1. Click **Share screen**.
+3. Click **Share screen**.
 
 
 
