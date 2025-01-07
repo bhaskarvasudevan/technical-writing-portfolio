@@ -192,9 +192,15 @@ You can share your laptop or desktop screen with others using this option.
 This option is useful for support engineers to troubleshoot a problem on your computer. 
 Follow the below steps to start sharing your screen:
 1. Click **Share screen.**
-1. Enter the **sharing key** or the **meeting ID** provided to you.
-1. Click **Share screen**.
 
 ![Share_screen](https://github.com/user-attachments/assets/d82b4ad4-06be-4db1-9968-be1dc200bac1)
+   
+1. Enter the **sharing key** or the **meeting ID** provided to you.
 
 ![Share_screen_screenshot_2](https://github.com/user-attachments/assets/77b7ee37-4491-4db8-b293-fa6a6e2d760e)
+
+1. Click **Share screen**.
+
+
+
+
