@@ -99,11 +99,11 @@ Follow the steps below to start a meeting without video:
 Follow the steps below to start a meeting with your personal meeting ID:
 1. Click the little arrow next to **New meeting**.
 1. Select **Use my personal meeting ID (PMI)**.
-1. Click **New meeting**.
-1. A new meeting starts with your personal meeting ID.
    
 ![Start_A_Meeting_with_PMI](https://github.com/user-attachments/assets/7169e3c3-ba36-4801-be1d-78f30f84427c)
 
+1. Click **New meeting**.
+1. A new meeting starts with your personal meeting ID.
 
 ### 4.4 Sharing meeting link
 
