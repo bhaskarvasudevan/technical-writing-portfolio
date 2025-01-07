@@ -51,13 +51,13 @@ A whiteboard is the online version of a classroom board. The host or presenter o
 Zoom Workplace provides features in the below two categories. The features are detailed in sections that follow. 
 
 1. Communication
-2. Meetings
-3. Team chat
-4. Phone
-5. Mail and calendar
-6. Scheduler
-7. Productivity
-8. Whiteboard
+   1. Meetings
+   2. Team chat
+   3. Phone
+   4. Mail and calendar
+   5. Scheduler
+1. Productivity
+   1. Whiteboard
 
 
 ## 4.0 Meetings
