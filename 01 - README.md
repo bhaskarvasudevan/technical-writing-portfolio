@@ -2,9 +2,9 @@
 This repository contains writing samples by Bhaskar Vasudevan.
 
 The writing samples:
-1. Factsheet - COVID-19 Factsheet.pdf - https://github.com/bhaskarvasudevan/technical-writing-portfolio/blob/main/COVID-19%20Factsheet.pdf 
+1. Factsheet - COVID-19 Factsheet.pdf - https://github.com/bhaskarvasudevan/technical-writing-portfolio/blob/main/02%20-%20COVID-19%20Factsheet.pdf
 1. Technical article -
-   1. Technical article.pdf
+   1. [Collections in Python](Technical article.pdf](https://github.com/bhaskarvasudevan/technical-writing-portfolio/blob/main/03%20-%20Collections%20in%20Python.pdf)
    1. Database normalization.pdf
    1. Java vs Python.pdf
 1. User Guides - 
