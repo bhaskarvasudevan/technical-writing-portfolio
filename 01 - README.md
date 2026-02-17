@@ -17,3 +17,5 @@ The writing samples:
 1. Mindmap - 08 - Mindmap.pdf 
 1. Release Note - 09 - Release Note.pdf
 1. Technical report - 10 - Emissions caused by data centers.pdf 
+
+Looking for opportunities in tech writing
