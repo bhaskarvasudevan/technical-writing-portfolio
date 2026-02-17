@@ -1,5 +1,5 @@
 # technical-writing-portfolio
-This repository contains writing samples by Bhaskar Vasudevan.
+This repository contains work samples by Bhaskar Vasudevan.
 
 The writing samples:
 1. Factsheet - 02 - COVID-19 Factsheet.pdf 
