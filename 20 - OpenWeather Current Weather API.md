@@ -15,7 +15,6 @@ You can find your unique API key on your account page under the API keys tab.
 The API has the following request parameters:
 
 ## lat
-Latitude
    - **Name**: lat
    - **Type**: float
    - **Required**: Yes
