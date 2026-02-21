@@ -2,54 +2,27 @@
 The Current Weather API retrieves the real-time weather data for a geographical location using its latitude and longitude.
 * The API is an HTTP GET endpoint.
 * The response format is JSON by default.
-* The API returns meteorological data like temperature, humidity, atmospheric pressure, wind speed, and weather conditions.
+* The API returns meteorological data such as temperature, humidity, atmospheric pressure, wind speed, and weather conditions.
 
 # Endpoint
 The API endpoint is: **GET https://api.openweathermap.org/data/2.5/weather** 
 
 # Authentication
-Authentication for this API is via an appid query parameter set to your unique API key.
+This API requires an appid query parameter set to a valid API key.
 You can find your unique API key on your account page under the API keys tab. 
 
 # Request Parameters
 The API has the following request parameters:
 
-## lat
-   - **Name**: lat
-   - **Type**: float
-   - **Required**: Yes
-   - **Description**: Latitude
+| Parameter | Type   | Required | Default  | Allowed Values                | Description                                                |
+| --------- | ------ | -------- | -------- | ----------------------------- | ---------------------------------------------------------- |
+| lat       | float  | Yes      | —        | Valid latitude (-90 to 90)    | Geographic latitude coordinate of the requested location.  |
+| lon       | float  | Yes      | —        | Valid longitude (-180 to 180) | Geographic longitude coordinate of the requested location. |
+| appid     | string | Yes      | —        | Valid API key                 | Unique API key used for authentication.                    |
+| units     | string | No       | standard | standard, metric, imperial    | Unit system used for temperature and wind speed values.    |
+| mode      | string | No       | json     | xml, html                     | Response format. JSON is returned by default.              |
+| lang      | string | No       | en       | ISO language codes            | Language used for weather description fields.              |
 
-## lon
-   - **Name**: lon
-   - **Type**: float
-   - **Required**: Yes
-   - **Description**: Longitude
-
-## appid 
-   - **Name**: appid
-   - **Type**: string
-   - **Required**: Yes
-   - **Description**: API key. You can find your unique API key on your account page under the **API key** tab.
-
-## mode 
-   - **Name**: mode
-   - **Type**: string
-   - **Required**: No
-   - **Description**: Response format. If used, possible values are: **xml** and **html**. If this parameter is not used, **JSON** is the default format.
-
-## units
-   - **Name**: units
-   - **Type**: string
-   - **Required**: No
-   - **Description**: Units of measurement. Possible values are: **standard**, **metric** and **imperial**. If this parameter is not used, **standard** is the default unit.
-
-## lang 
-   - **Name**: lang 
-   - **Type**: string
-   - **Required**: No
-   - **Description**: Output language. Language in which the response is displayed. If this parameter is not used, then **US English (en-US)** is the default language. 
-  
    
 # Example Request
 
