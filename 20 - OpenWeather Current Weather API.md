@@ -1,12 +1,11 @@
 # API Overview
 The Current Weather API retrieves the real-time weather data for a geographical location using its latitude and longitude.
-* The API is a http GET endpoint.
+* The API is an HTTP GET endpoint.
 * The response format is JSON by default.
-* The API returns meteorological data like temperature, humidity, wind, etc.
+* The API returns meteorological data like temperature, humidity, atmospheric pressure, wind speed, and weather conditions.
 
-# Base URL
-The base URL for the API is:
-GET https://api.openweathermap.org/data/2.5/weather
+# Endpoint
+The API endpoint is: **GET https://api.openweathermap.org/data/2.5/weather** 
 
 # Authentication
 Authentication for this API is via an appid query parameter set to your unique API key.
@@ -18,13 +17,13 @@ The API has the following request parameters:
 ## lat
 Latitude
    - **Name**: lat
-   - **Type**: string
+   - **Type**: float
    - **Required**: Yes
    - **Description**: Latitude
 
-## long 
+## lon
    - **Name**: lon
-   - **Type**: string
+   - **Type**: float
    - **Required**: Yes
    - **Description**: Longitude
 
