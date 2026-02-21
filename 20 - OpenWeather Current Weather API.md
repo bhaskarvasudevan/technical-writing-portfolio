@@ -8,7 +8,7 @@ The Current Weather API retrieves the real-time weather data for a geographical 
 The API endpoint is: **GET https://api.openweathermap.org/data/2.5/weather** 
 
 # Authentication
-This API requires an appid query parameter set to a valid API key.
+This API requires an **appid** query parameter set to a valid API key.
 You can find your unique API key on your account page under the API keys tab. 
 
 # Request Parameters
