@@ -20,7 +20,7 @@ The API has the following request parameters:
 | lon       | query | float  | Yes      | —                   | Valid longitude (-180 to 180)    | Geographic longitude coordinate of the requested location.                                                       |
 | appid     | query | string | Yes      | —                   | Valid API key                    | Unique API key used for authentication.                                                                          |
 | units     | query | string | No       | `standard`          | `standard`, `metric`, `imperial` | Unit system used for temperature and wind speed values. Defaults to **standard** if not specified.               |
-| mode      | query | string | No       | JSON (implicit)     | `xml`, `html`                    | Response format. Defaults to *JSON* if not specified.                                                            |
+| mode      | query | string | No       | JSON (implicit)     | `xml`, `html`                    | Response format. Defaults to **JSON** if not specified.                                                          |
 | lang      | query | string | No       | `en`                | ISO language codes               | Language used for weather description fields. Defaults to English (**en**) if not specified.                     |
 
    
