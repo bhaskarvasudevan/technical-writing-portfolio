@@ -14,14 +14,14 @@ You can find your unique API key on your account page under the API keys tab.
 # Request Parameters
 The API has the following request parameters:
 
-| Parameter | Type   | Required | Default  | Allowed Values                | Description                                                |
-| --------- | ------ | -------- | -------- | ----------------------------- | ---------------------------------------------------------- |
-| lat       | float  | Yes      | —        | Valid latitude (-90 to 90)    | Geographic latitude coordinate of the requested location.  |
-| lon       | float  | Yes      | —        | Valid longitude (-180 to 180) | Geographic longitude coordinate of the requested location. |
-| appid     | string | Yes      | —        | Valid API key                 | Unique API key used for authentication.                    |
-| units     | string | No       | standard | standard, metric, imperial    | Unit system used for temperature and wind speed values.    |
-| mode      | string | No       | json     | xml, html                     | Response format. JSON is returned by default.              |
-| lang      | string | No       | en       | ISO language codes            | Language used for weather description fields.              |
+| Parameter | In    | Type   | Required | Default  | Allowed Values                | Description                                                                                                         |
+| --------- | ----- | ------ | -------- | -------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------  |
+| lat       | query | float  | Yes      | —        | Valid latitude (-90 to 90)    | Geographic latitude coordinate of the requested location.                                                           |
+| lon       | query | float  | Yes      | —        | Valid longitude (-180 to 180) | Geographic longitude coordinate of the requested location.                                                          |
+| appid     | query | string | Yes      | —        | Valid API key                 | Unique API key used for authentication.                                                                             |
+| units     | query | string | No       | standard | standard, metric, imperial    | Unit system used for temperature and wind speed values. If **units** is not specified, it defaults to **standard**. |
+| mode      | query | string | No       | JSON     | xml, html                     | Response format. JSON is returned by default when **mode** is not specified.                                        |
+| lang      | query | string | No       | en       | ISO language codes            | Language used for weather description fields.                                                                       |
 
    
 # Example Request
